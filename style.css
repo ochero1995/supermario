@@ -1,0 +1,12 @@
+body{
+	background: url(https://upload.wikimedia.org/wikipedia/commons/9/9f/Super_Mario_Bros._World_1-1.jpg) no-repeat;
+	background-size: cover;
+
+}
+
+
+.mario img {
+    position: absolute;
+    left: 0;
+    top: 215px;
+}
